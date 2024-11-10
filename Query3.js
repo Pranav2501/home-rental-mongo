@@ -5,8 +5,8 @@ async function countMaintenanceRequests() {
     try {
         await client.connect();
         const db = client.db("Rentals");
-        const count = await db.collection("MaintenanceRequests").countDocuments({ tenantID: "tenant789" });
-        console.log(`Number of Maintenance Requests for tenant789: ${count}`);
+        const count = await db.collection("MaintenanceRequests").countDocuments({ tenantID: "tenant009" });
+        console.log(`Number of Maintenance Requests for tenant009: ${count}`);
     } finally {
         await client.close();
     }

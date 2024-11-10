@@ -6,7 +6,7 @@ async function updateMaintenanceRequest() {
         await client.connect();
         const db = client.db("Rentals");
         const result = await db.collection("MaintenanceRequests").updateOne(
-            { _id: "request001" },
+            { _id: "request008" },
             { $set: { status: "Completed" } }
         );
         console.log("Maintenance Request Updated:", result.modifiedCount);

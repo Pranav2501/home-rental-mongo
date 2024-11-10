@@ -7,8 +7,8 @@ async function findTenants() {
         const db = client.db("Rentals");
         const result = await db.collection("Tenants").find({
             $or: [
-                { "applications.status": "Pending", "applications.propertyID": "property456" },
-                { activeLeaseID: "lease001" }
+                { "applications.status": "Pending" },
+                { activeLeaseID: { $ne: null } }
             ]
         }).toArray();
         console.log("Matching Tenants:", result);

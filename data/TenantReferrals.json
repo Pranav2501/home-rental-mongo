@@ -1,0 +1,83 @@
+[
+    {
+      "_id": "referral004",
+      "referrerTenantID": "tenant002",
+      "referredTenantID": "tenant013",
+      "date": "2024-12-10",
+      "reward": 200,
+      "status": "Accepted"
+    },
+    {
+      "_id": "referral005",
+      "referrerTenantID": "tenant003",
+      "referredTenantID": "tenant014",
+      "date": "2024-11-01",
+      "reward": 150,
+      "status": "Pending"
+    },
+    {
+      "_id": "referral006",
+      "referrerTenantID": "tenant004",
+      "referredTenantID": "tenant015",
+      "date": "2024-10-05",
+      "reward": 300,
+      "status": "Accepted"
+    },
+    {
+      "_id": "referral007",
+      "referrerTenantID": "tenant005",
+      "referredTenantID": "tenant016",
+      "date": "2024-09-15",
+      "reward": 250,
+      "status": "Rejected"
+    },
+    {
+      "_id": "referral008",
+      "referrerTenantID": "tenant006",
+      "referredTenantID": "tenant017",
+      "date": "2024-11-11",
+      "reward": 100,
+      "status": "Pending"
+    },
+    {
+      "_id": "referral009",
+      "referrerTenantID": "tenant007",
+      "referredTenantID": "tenant018",
+      "date": "2024-12-25",
+      "reward": 200,
+      "status": "Accepted"
+    },
+    {
+      "_id": "referral010",
+      "referrerTenantID": "tenant008",
+      "referredTenantID": "tenant019",
+      "date": "2024-10-22",
+      "reward": 175,
+      "status": "Accepted"
+    },
+    {
+      "_id": "referral011",
+      "referrerTenantID": "tenant009",
+      "referredTenantID": "tenant020",
+      "date": "2024-09-29",
+      "reward": 150,
+      "status": "Pending"
+    },
+    {
+      "_id": "referral012",
+      "referrerTenantID": "tenant010",
+      "referredTenantID": "tenant021",
+      "date": "2024-11-18",
+      "reward": 225,
+      "status": "Accepted"
+    },
+    {
+      "_id": "referral013",
+      "referrerTenantID": "tenant011",
+      "referredTenantID": "tenant022",
+      "date": "2024-10-10",
+      "reward": 175,
+      "status": "Rejected"
+    }
+  ]
+  

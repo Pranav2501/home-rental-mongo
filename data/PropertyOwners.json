@@ -1,0 +1,352 @@
+[
+    {
+        "_id":"owner001",
+        "name":"Kimberly Novak",
+        "email":"ozamora@green-tucker.com",
+        "phone":"707.294.6546x75315",
+        "address":"8405 Melissa Street\nWest Patriciabury, HI 78630",
+        "taxID":"ce7a3e6f-10a7-469b-b409-b82a8954f7d2",
+        "properties":[
+            {
+                "_id":"property982",
+                "address":"48958 Walsh Shores",
+                "city":"New Amyville",
+                "state":"AL",
+                "zipCode":"96236",
+                "type":"House",
+                "rooms":1,
+                "rent":1205
+            },
+            {
+                "_id":"property228",
+                "address":"701 Black Key",
+                "city":"New Heatherberg",
+                "state":"WA",
+                "zipCode":"33366",
+                "type":"Condo",
+                "rooms":5,
+                "rent":3742
+            },
+            {
+                "_id":"property612",
+                "address":"819 Braun Junctions",
+                "city":"Stephenberg",
+                "state":"MI",
+                "zipCode":"90490",
+                "type":"Condo",
+                "rooms":2,
+                "rent":1740
+            }
+        ]
+    },
+    {
+        "_id":"owner002",
+        "name":"Jennifer Brown",
+        "email":"jthompson@hotmail.com",
+        "phone":"001-220-399-4133x1441",
+        "address":"49117 Francis Port\nPattonshire, NY 06288",
+        "taxID":"97b43bce-4e96-45e7-8323-2ffa555c0c9a",
+        "properties":[
+            {
+                "_id":"property381",
+                "address":"94441 Malone Loaf Suite 169",
+                "city":"Schwartzmouth",
+                "state":"ID",
+                "zipCode":"99807",
+                "type":"Apartment",
+                "rooms":2,
+                "rent":4235
+            },
+            {
+                "_id":"property758",
+                "address":"72326 Lisa Keys Apt. 724",
+                "city":"Dominiquestad",
+                "state":"MS",
+                "zipCode":"44243",
+                "type":"Apartment",
+                "rooms":2,
+                "rent":4366
+            }
+        ]
+    },
+    {
+        "_id":"owner003",
+        "name":"Kelly Jones",
+        "email":"levi31@butler.biz",
+        "phone":"338.662.0563x9614",
+        "address":"2001 Ashley Rapids Suite 466\nSandraville, TN 97254",
+        "taxID":"afd3a8ea-4d5e-4460-b2be-c5265cf30091",
+        "properties":[
+            {
+                "_id":"property456",
+                "address":"3573 Philip Streets Apt. 670",
+                "city":"Bennettburgh",
+                "state":"HI",
+                "zipCode":"70073",
+                "type":"House",
+                "rooms":1,
+                "rent":3774
+            },
+            {
+                "_id":"property452",
+                "address":"545 Bauer Roads Apt. 026",
+                "city":"Turnerton",
+                "state":"TX",
+                "zipCode":"88418",
+                "type":"House",
+                "rooms":1,
+                "rent":1124
+            },
+            {
+                "_id":"property551",
+                "address":"833 Carpenter River Apt. 710",
+                "city":"North Robertfurt",
+                "state":"PA",
+                "zipCode":"56725",
+                "type":"Apartment",
+                "rooms":5,
+                "rent":4104
+            }
+        ]
+    },
+    {
+        "_id":"owner004",
+        "name":"Patricia Nguyen",
+        "email":"michaeljacobs@gmail.com",
+        "phone":"396.453.0346x784",
+        "address":"7446 Crawford Canyon\nSouth Jacqueline, DE 87848",
+        "taxID":"74f84e46-8dde-404b-8045-f2d30f842cff",
+        "properties":[
+            {
+                "_id":"property317",
+                "address":"7334 James Unions Apt. 619",
+                "city":"Michaelstad",
+                "state":"AL",
+                "zipCode":"20182",
+                "type":"Condo",
+                "rooms":3,
+                "rent":4844
+            },
+            {
+                "_id":"property988",
+                "address":"93790 Colleen Overpass",
+                "city":"Carlfurt",
+                "state":"NJ",
+                "zipCode":"21770",
+                "type":"House",
+                "rooms":3,
+                "rent":2179
+            },
+            {
+                "_id":"property893",
+                "address":"1188 Ramirez Courts Suite 389",
+                "city":"East Michaelborough",
+                "state":"OK",
+                "zipCode":"23640",
+                "type":"Condo",
+                "rooms":1,
+                "rent":3066
+            }
+        ]
+    },
+    {
+        "_id":"owner005",
+        "name":"Lindsay Hall",
+        "email":"ramostiffany@yahoo.com",
+        "phone":"236.469.7329",
+        "address":"12781 Moreno Forest\nWest Karen, NM 93021",
+        "taxID":"12f4be49-d94b-4713-90a8-ea7016c69e52",
+        "properties":[
+            {
+                "_id":"property622",
+                "address":"16880 Johnson Prairie",
+                "city":"New Marioside",
+                "state":"OR",
+                "zipCode":"58471",
+                "type":"Apartment",
+                "rooms":1,
+                "rent":4173
+            }
+        ]
+    },
+    {
+        "_id":"owner006",
+        "name":"Douglas Little",
+        "email":"robertluna@johnson.net",
+        "phone":"001-308-984-1976x97586",
+        "address":"444 Brad Via Suite 736\nPort Joanne, PA 37122",
+        "taxID":"9a919b53-4ab9-4a89-82aa-0a47926d1d92",
+        "properties":[
+            {
+                "_id":"property849",
+                "address":"922 Hardy Road Suite 464",
+                "city":"East Michael",
+                "state":"WA",
+                "zipCode":"38262",
+                "type":"Apartment",
+                "rooms":3,
+                "rent":4315
+            },
+            {
+                "_id":"property407",
+                "address":"57673 Max Crescent",
+                "city":"Chenview",
+                "state":"MT",
+                "zipCode":"19839",
+                "type":"House",
+                "rooms":1,
+                "rent":4145
+            },
+            {
+                "_id":"property197",
+                "address":"02952 David Fall Suite 891",
+                "city":"North Jacob",
+                "state":"AK",
+                "zipCode":"41522",
+                "type":"House",
+                "rooms":3,
+                "rent":2224
+            }
+        ]
+    },
+    {
+        "_id":"owner007",
+        "name":"Beth Austin",
+        "email":"susanrusso@gmail.com",
+        "phone":"+1-674-577-2138x4135",
+        "address":"0756 Dana Viaduct\nEast Dawnchester, MT 67056",
+        "taxID":"5292e76e-43b4-43a8-b2ad-258c664764e1",
+        "properties":[
+            {
+                "_id":"property745",
+                "address":"762 Barbara Key Apt. 754",
+                "city":"North Michael",
+                "state":"IN",
+                "zipCode":"20994",
+                "type":"Apartment",
+                "rooms":4,
+                "rent":3533
+            },
+            {
+                "_id":"property322",
+                "address":"1154 Le Manor",
+                "city":"Angelaton",
+                "state":"NC",
+                "zipCode":"54965",
+                "type":"Apartment",
+                "rooms":5,
+                "rent":1254
+            }
+        ]
+    },
+    {
+        "_id":"owner008",
+        "name":"Alexandra Hernandez",
+        "email":"martinstephanie@banks.com",
+        "phone":"+1-106-767-0237",
+        "address":"468 James Grove\nLake Jacob, TN 80784",
+        "taxID":"15e947ea-b503-4f63-ab0b-0a601959980d",
+        "properties":[
+            {
+                "_id":"property909",
+                "address":"666 Paula Overpass Suite 719",
+                "city":"New Julieborough",
+                "state":"IA",
+                "zipCode":"04371",
+                "type":"Condo",
+                "rooms":5,
+                "rent":1688
+            },
+            {
+                "_id":"property590",
+                "address":"491 Dominguez Ferry Apt. 017",
+                "city":"North Blake",
+                "state":"NV",
+                "zipCode":"12825",
+                "type":"Condo",
+                "rooms":1,
+                "rent":4869
+            },
+            {
+                "_id":"property332",
+                "address":"01071 Jones Mills Suite 562",
+                "city":"West Timothy",
+                "state":"KS",
+                "zipCode":"31373",
+                "type":"House",
+                "rooms":5,
+                "rent":1647
+            }
+        ]
+    },
+    {
+        "_id":"owner009",
+        "name":"Christopher Rodriguez",
+        "email":"noblemisty@bailey-gill.com",
+        "phone":"(793)547-8929x84632",
+        "address":"246 Erica Stream\nNew Katherineborough, ND 87251",
+        "taxID":"02bd1cb3-7f0a-4f70-9d78-da2820604b02",
+        "properties":[
+            {
+                "_id":"property419",
+                "address":"2880 Heidi Villages",
+                "city":"Lake Shawn",
+                "state":"WI",
+                "zipCode":"56936",
+                "type":"Condo",
+                "rooms":4,
+                "rent":2745
+            },
+            {
+                "_id":"property707",
+                "address":"49053 David Hills",
+                "city":"South Jennifer",
+                "state":"NH",
+                "zipCode":"59993",
+                "type":"Apartment",
+                "rooms":2,
+                "rent":3300
+            }
+        ]
+    },
+    {
+        "_id":"owner010",
+        "name":"Diane Johnson",
+        "email":"amywatkins@potts.biz",
+        "phone":"(856)784-1515x39010",
+        "address":"37653 Lucas Inlet Apt. 279\nWalkerhaven, NH 35719",
+        "taxID":"65c492b8-4b79-4af1-94b5-ead1e6495fa0",
+        "properties":[
+            {
+                "_id":"property996",
+                "address":"7895 Harris Lakes Apt. 038",
+                "city":"Vargasfort",
+                "state":"AK",
+                "zipCode":"11848",
+                "type":"Condo",
+                "rooms":4,
+                "rent":1362
+            },
+            {
+                "_id":"property420",
+                "address":"137 Sarah Ways Suite 169",
+                "city":"New Kristenmouth",
+                "state":"CA",
+                "zipCode":"62741",
+                "type":"Apartment",
+                "rooms":3,
+                "rent":2234
+            },
+            {
+                "_id":"property571",
+                "address":"5758 Morgan Walk",
+                "city":"Bushstad",
+                "state":"RI",
+                "zipCode":"19909",
+                "type":"Condo",
+                "rooms":1,
+                "rent":1472
+            }
+        ]
+    }
+]

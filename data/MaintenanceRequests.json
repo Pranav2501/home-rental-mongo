@@ -1,0 +1,82 @@
+[
+    {
+      "_id": "request005",
+      "tenantID": "tenant006",
+      "propertyID": "property789",
+      "date": "2024-09-25",
+      "description": "Heating not working",
+      "status": "Open"
+    },
+    {
+      "_id": "request006",
+      "tenantID": "tenant007",
+      "propertyID": "property456",
+      "date": "2024-10-01",
+      "description": "Broken door handle",
+      "status": "In Progress"
+    },
+    {
+      "_id": "request007",
+      "tenantID": "tenant008",
+      "propertyID": "property321",
+      "date": "2024-11-11",
+      "description": "Leaky roof",
+      "status": "Completed"
+    },
+    {
+      "_id": "request008",
+      "tenantID": "tenant009",
+      "propertyID": "property654",
+      "date": "2024-12-05",
+      "description": "Pest control required",
+      "status": "Pending"
+    },
+    {
+      "_id": "request009",
+      "tenantID": "tenant010",
+      "propertyID": "property852",
+      "date": "2024-12-15",
+      "description": "Water leakage in bathroom",
+      "status": "In Progress"
+    },
+    {
+      "_id": "request010",
+      "tenantID": "tenant011",
+      "propertyID": "property999",
+      "date": "2024-12-20",
+      "description": "Electrical wiring issue",
+      "status": "Open"
+    },
+    {
+      "_id": "request011",
+      "tenantID": "tenant012",
+      "propertyID": "property123",
+      "date": "2024-11-30",
+      "description": "Broken window",
+      "status": "Completed"
+    },
+    {
+      "_id": "request012",
+      "tenantID": "tenant013",
+      "propertyID": "property456",
+      "date": "2024-09-18",
+      "description": "Blocked drain",
+      "status": "Pending"
+    },
+    {
+      "_id": "request013",
+      "tenantID": "tenant014",
+      "propertyID": "property321",
+      "date": "2024-10-08",
+      "description": "Cracked wall",
+      "status": "In Progress"
+    },
+    {
+      "_id": "request014",
+      "tenantID": "tenant015",
+      "propertyID": "property654",
+      "date": "2024-11-17",
+      "description": "Smoke detector not working",
+      "status": "Open"
+    }
+  ]
