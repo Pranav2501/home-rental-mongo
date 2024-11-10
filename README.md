@@ -172,18 +172,5 @@ Marks a maintenance request as "Completed."
 
 Fetches all properties owned by a specific property owner.
 
-### Key Features
 
-- **Database Design**:
-  - Designed using MongoDB's hierarchical document model with embedded and referenced relationships.
-  - Collections:
-    - `PropertyOwners`
-    - `Tenants`
-    - `LeaseAgreements`
-    - `MaintenanceRequests`
-    - `TenantReferrals`
-- **Test Data**:
-  - Test data provided in JSON format for easy import.
-- **Scripts**:
-  - Scripts written in Node.js to perform various queries and database operations.
 
