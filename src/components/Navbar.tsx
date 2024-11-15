@@ -12,9 +12,6 @@ const Navbar: React.FC = () => {
               <Link className="nav-link" to="/">Property Owners</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/properties">Properties</Link>
-            </li>
-            <li className="nav-item">
               <Link className="nav-link" to="/maintenance-requests">Maintenance Requests</Link>
             </li>
           </ul>
