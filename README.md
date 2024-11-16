@@ -91,4 +91,7 @@ The frontend uses an Axios instance (`api.ts`) to communicate with the backend A
   api.post('/property-owners/add', { name: 'John Doe', email: 'john@example.com' });
   ```
 
+### Demo Video on YouTube
+Please refer to this link for viewing the demo of the application:
+<a href="https://youtu.be/gLpxY1573j8">Demo Video</a>
 
