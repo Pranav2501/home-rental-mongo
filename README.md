@@ -95,7 +95,7 @@ root
    - Database name: `Rentals`.
 5. Start the server:
    ```bash
-   node app.js
+   node server.js
    ```
 6. Access the server at: `http://localhost:4000`.
 
@@ -135,14 +135,7 @@ Refer to the `Logical Model (MongoDB Collections)` section in the project docume
 - Fork the repository and create a new branch for feature additions.
 - Submit a pull request for review and merge.
 
-### Future Enhancements
-- Implement user authentication and role-based access control.
-- Add real-time notifications for maintenance updates.
-- Develop a frontend interface for enhanced user interaction.
 
-### Contact
-For any issues or queries, contact **Pranav Raj Sowrirajan Balaji** at `pranav@example.com`.
-
----
-
-This README serves as a guide for developers and contributors to understand and work on the Home Rental Management System.
+### Demo Video on YouTube
+Please refer to this link for viewing the demo of the application:
+<a href="https://youtu.be/gLpxY1573j8">Demo Video</a>
