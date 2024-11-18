@@ -138,4 +138,4 @@ Refer to the `Logical Model (MongoDB Collections)` section in the project docume
 
 ### Demo Video on YouTube
 Please refer to this link for viewing the demo of the application:
-<a href="https://youtu.be/gLpxY1573j8">Demo Video</a>
+<a href="https://youtu.be/nmeZcOfjKG4">Demo Video</a>
