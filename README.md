@@ -93,5 +93,5 @@ The frontend uses an Axios instance (`api.ts`) to communicate with the backend A
 
 ### Demo Video on YouTube
 Please refer to this link for viewing the demo of the application:
-<a href="https://youtu.be/gLpxY1573j8">Demo Video</a>
+<a href="https://youtu.be/nmeZcOfjKG4">Demo Video</a>
 
